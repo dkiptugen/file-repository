@@ -1,0 +1,4 @@
+
+#ignore java class and jar file#
+*.jar
+*.class
